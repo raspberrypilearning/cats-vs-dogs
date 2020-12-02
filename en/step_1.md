@@ -1,38 +1,33 @@
 ## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
-
 ### What you will make
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+You will take an existing model trained to recognise lots of different kinds of images and retrain it to determine whether an image shows dogs or cats. The existing model already knows how to identify interesting features of an image. You will retrain the final layer of the model, which decides what those interesting features make up.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+You will also measure how well the model can do this new job, and show how much you've improved on the original model in this task.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+--- collapse ---
+---
+title: What you should already know
+---
+This project assumes you already know some Python. Specifically, it assumes you know how to use:
+
++ Variables
++ Lists
++ Functions, including creating your own function that accepts parameters
+
+The project also assumes that you know the basics of how to interact with an image classifying model and get a prediction from it. If you don't, you can learn this in the ['Testing your computer's vision' project](https://projects.raspberrypi.org/en/projects/testing-vision).
+
+--- /collapse ---
 
 --- collapse ---
 ---
 title: What you will need
 ---
-### Hardware
 
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
++ A computer
++ An internet connection
++ A Google account
 
 --- /collapse ---
 
@@ -41,9 +36,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
++ The structure of image recognition models
++ How those models are trained
++ How to measure how well a model works
 
 --- /collapse ---
 
@@ -52,8 +47,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/retraining-model/print){:target="_blank"}.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
+[Here is a link to the resources for this project](http://rpf.io/retraining-model-go).
 
 --- /collapse ---
