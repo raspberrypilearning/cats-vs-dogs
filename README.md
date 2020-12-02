@@ -1,11 +1,11 @@
-# retraining-model
+# cats-vs-dogs
 
-![retraining-model](banner.png)
+![cats-vs-dogs](banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/retraining-model](https://projects.raspberrypi.org/en/projects/retraining-model)
+Find the project online at [projects.raspberrypi.org/en/projects/cats-vs-dogs](https://projects.raspberrypi.org/en/projects/cats-vs-dogs)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/retraining-model/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/retraining-model/tree/master/en/solutions).
+For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/cats-vs-dogs/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/cats-vs-dogs/tree/master/en/solutions).
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)

@@ -16,7 +16,7 @@ This project assumes you already know some Python. Specifically, it assumes you 
 + Lists
 + Functions, including creating your own function that accepts parameters
 
-The project also assumes that you know the basics of how to interact with an image classifying model and get a prediction from it. If you don't, you can learn this in the ['Testing your computer's vision' project](https://projects.raspberrypi.org/en/projects/testing-vision).
+The project also assumes that you know the basics of how to interact with an image classifying model and get a prediction from it. If you don't, you can learn this in the ['Testing your computer's vision' project](https://projects.raspberrypi.org/en/projects/testing-your-computers-vision).
 
 --- /collapse ---
 
@@ -47,8 +47,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/retraining-model/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/cats-vs-dogs/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/retraining-model-go).
+[Here is a link to the resources for this project](http://rpf.io/cats-vs-dogs-go).
 
 --- /collapse ---
