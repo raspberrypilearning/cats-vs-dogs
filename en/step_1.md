@@ -49,6 +49,6 @@ title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/cats-vs-dogs/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](https://rpf.io/cats-vs-dogs-go).
+[Here is a link to the resources for this project](https://rpf.io/p/en/cats-vs-dogs-go).
 
 --- /collapse ---
