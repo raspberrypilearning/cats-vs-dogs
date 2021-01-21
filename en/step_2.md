@@ -55,7 +55,7 @@ This tells the program that images will be 160x160 pixels, with three layers of 
 Now, below your `IMAGE_SHAPE` variable, import the MobileNetV2 model — which is trained to identify loads of different objects — pass it your `IMAGE_SHAPE` as its `input_shape` and store it in an `original_model` variable.
 
 ```python
-original_model = tf.keras.applications.MobileNetV2(input_shape=IMAGE_SIZE)
+original_model = tf.keras.applications.MobileNetV2(input_shape=IMAGE_SHAPE)
 ```
 --- /task ---
 
