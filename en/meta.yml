@@ -9,11 +9,13 @@ copyedit: true
 last_tested: '2020-06-16'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Prepare the model for retraining
 - title: Get and split training data
+  completion:
+  - engaged
 - title: Add your new layers
 - title: Retrain the model
-  completion: internal
 - title: Test your model
+  completion:
+  - internal
 - title: What next?
