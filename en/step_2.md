@@ -59,7 +59,7 @@ original_model = tf.keras.applications.MobileNetV2(input_shape=IMAGE_SHAPE)
 ```
 --- /task ---
 
-Since MobileNetV2 is designed to run on a mobile device with limited battery, like a phone, it's not as large or as powerful as some other models. This means it doesn't always make the best guesses. Before you start changing it, test how good it is by asking it to identify a photo of a dog. Functions to let you do this easily have already been included in the notebook, but to understand how they work, check out the ['Testing your computer's vision' project](https://learning-admin.raspberrypi.org/en/projects/testing-your-computers-vision){:target="_blank"}.
+Since MobileNetV2 is designed to run on a mobile device with limited battery, like a phone, it's not as large or as powerful as some other models. This means it doesn't always make the best guesses. Before you start changing it, test how good it is by asking it to identify a photo of a dog. Functions to let you do this easily have already been included in the notebook, but to understand how they work, check out the ['Testing your computer's vision' project](https://projects.raspberrypi.org/en/projects/testing-your-computers-vision){:target="_blank"}.
 
 --- task ---
 Below the model import, add this line:
