@@ -50,7 +50,7 @@ Below your existing code, create a variable for the base learning rate, then com
 
 ```python
 BASE_LEARNING_RATE = 0.0001
-model.compile(optimizer=tf.keras.optimizers.RMSprop(lr=BASE_LEARNING_RATE),
+model.compile(optimizer=tf.keras.optimizers.RMSprop(learning_rate=BASE_LEARNING_RATE),
               loss=tf.keras.losses.SparseCategoricalCrossentropy(),
               metrics=['accuracy'])
 ```
