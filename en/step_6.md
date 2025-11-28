@@ -7,7 +7,7 @@ Now you've got a working model, you can use pictures of cats and dogs to test it
 In the last empty cell, add a call to `predict_image` and pass it the URL to a test image.
 
 ```python
-predict_image('https://dojo.soy/predict-dog')
+predict_image('https://rpf.io/dog')
 ```
 
 --- /task ---
